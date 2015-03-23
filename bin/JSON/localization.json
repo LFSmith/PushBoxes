@@ -1,0 +1,32 @@
+{
+"localization":{
+    "language": "en",
+    "strings": [
+        {
+            "id": "game_title",
+            "text": "Boxeption"
+        },
+        {
+            "id": "level_complete",
+            "text": "Congratulations you have completed the level!"
+        },
+        {
+            "id": "yes",
+            "text": "OK"
+        },
+        {
+            "id": "no",
+            "text": "NO"
+        },
+		{
+            "id": "warning",
+            "text": "!!!WARNING!!!"
+        },
+		    {
+            "id": "clearsavegame_msg",
+            "text": "You are about to delete all your Progress! \nDo you wish to continue?"
+        }
+		
+    ]
+}
+}

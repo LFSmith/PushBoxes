@@ -1,0 +1,15 @@
+{
+    "initload": {
+        "addresses": [
+            {
+                "address": "JSON/localization.json"
+            },
+            {
+                "address": "JSON/levels.json"
+            },
+			{
+				"adress": "JSON/imagefiles.json"
+			}
+        ]
+    }
+}

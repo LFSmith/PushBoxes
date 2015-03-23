@@ -1,0 +1,392 @@
+{
+    "TextureAtlas": {
+        "-imagePath": "aliens.png",
+        "SubTexture": [
+            {
+                "-name": "alienBeige.png",
+                "-x": "478",
+                "-y": "363",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBeige_climb1.png",
+                "-x": "478",
+                "-y": "175",
+                "-width": "66",
+                "-height": "95"
+            },
+            {
+                "-name": "alienBeige_climb2.png",
+                "-x": "610",
+                "-y": "368",
+                "-width": "66",
+                "-height": "95"
+            },
+            {
+                "-name": "alienBeige_duck.png",
+                "-x": "278",
+                "-y": "92",
+                "-width": "67",
+                "-height": "72"
+            },
+            {
+                "-name": "alienBeige_hurt.png",
+                "-x": "278",
+                "-y": "0",
+                "-width": "67",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBeige_jump.png",
+                "-x": "479",
+                "-y": "0",
+                "-width": "66",
+                "-height": "93"
+            },
+            {
+                "-name": "alienBeige_stand.png",
+                "-x": "676",
+                "-y": "276",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBeige_swim1.png",
+                "-x": "209",
+                "-y": "95",
+                "-width": "69",
+                "-height": "98"
+            },
+            {
+                "-name": "alienBeige_swim2.png",
+                "-x": "70",
+                "-y": "0",
+                "-width": "70",
+                "-height": "100"
+            },
+            {
+                "-name": "alienBeige_walk1.png",
+                "-x": "209",
+                "-y": "193",
+                "-width": "68",
+                "-height": "93"
+            },
+            {
+                "-name": "alienBeige_walk2.png",
+                "-x": "70",
+                "-y": "284",
+                "-width": "70",
+                "-height": "96"
+            },
+            {
+                "-name": "alienBlue.png",
+                "-x": "412",
+                "-y": "175",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBlue_climb1.png",
+                "-x": "412",
+                "-y": "359",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBlue_climb2.png",
+                "-x": "412",
+                "-y": "267",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBlue_duck.png",
+                "-x": "345",
+                "-y": "271",
+                "-width": "67",
+                "-height": "72"
+            },
+            {
+                "-name": "alienBlue_hurt.png",
+                "-x": "345",
+                "-y": "0",
+                "-width": "67",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBlue_jump.png",
+                "-x": "478",
+                "-y": "270",
+                "-width": "66",
+                "-height": "93"
+            },
+            {
+                "-name": "alienBlue_stand.png",
+                "-x": "676",
+                "-y": "368",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienBlue_swim1.png",
+                "-x": "139",
+                "-y": "380",
+                "-width": "69",
+                "-height": "95"
+            },
+            {
+                "-name": "alienBlue_swim2.png",
+                "-x": "70",
+                "-y": "100",
+                "-width": "70",
+                "-height": "97"
+            },
+            {
+                "-name": "alienBlue_walk1.png",
+                "-x": "544",
+                "-y": "267",
+                "-width": "66",
+                "-height": "93"
+            },
+            {
+                "-name": "alienBlue_walk2.png",
+                "-x": "345",
+                "-y": "175",
+                "-width": "67",
+                "-height": "96"
+            },
+            {
+                "-name": "alienGreen.png",
+                "-x": "610",
+                "-y": "276",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienGreen_climb1.png",
+                "-x": "611",
+                "-y": "0",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienGreen_climb2.png",
+                "-x": "676",
+                "-y": "92",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienGreen_duck.png",
+                "-x": "208",
+                "-y": "424",
+                "-width": "69",
+                "-height": "71"
+            },
+            {
+                "-name": "alienGreen_hurt.png",
+                "-x": "140",
+                "-y": "261",
+                "-width": "69",
+                "-height": "92"
+            },
+            {
+                "-name": "alienGreen_jump.png",
+                "-x": "345",
+                "-y": "343",
+                "-width": "67",
+                "-height": "93"
+            },
+            {
+                "-name": "alienGreen_stand.png",
+                "-x": "676",
+                "-y": "184",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienGreen_swim1.png",
+                "-x": "209",
+                "-y": "0",
+                "-width": "69",
+                "-height": "95"
+            },
+            {
+                "-name": "alienGreen_swim2.png",
+                "-x": "0",
+                "-y": "193",
+                "-width": "70",
+                "-height": "97"
+            },
+            {
+                "-name": "alienGreen_walk1.png",
+                "-x": "277",
+                "-y": "276",
+                "-width": "68",
+                "-height": "93"
+            },
+            {
+                "-name": "alienGreen_walk2.png",
+                "-x": "0",
+                "-y": "290",
+                "-width": "70",
+                "-height": "96"
+            },
+            {
+                "-name": "alienPink.png",
+                "-x": "610",
+                "-y": "184",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienPink_climb1.png",
+                "-x": "610",
+                "-y": "92",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienPink_climb2.png",
+                "-x": "545",
+                "-y": "0",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienPink_duck.png",
+                "-x": "208",
+                "-y": "353",
+                "-width": "69",
+                "-height": "71"
+            },
+            {
+                "-name": "alienPink_hurt.png",
+                "-x": "70",
+                "-y": "380",
+                "-width": "69",
+                "-height": "92"
+            },
+            {
+                "-name": "alienPink_jump.png",
+                "-x": "412",
+                "-y": "0",
+                "-width": "67",
+                "-height": "93"
+            },
+            {
+                "-name": "alienPink_stand.png",
+                "-x": "544",
+                "-y": "93",
+                "-width": "66",
+                "-height": "92"
+            },
+            {
+                "-name": "alienPink_swim1.png",
+                "-x": "140",
+                "-y": "0",
+                "-width": "69",
+                "-height": "95"
+            },
+            {
+                "-name": "alienPink_swim2.png",
+                "-x": "0",
+                "-y": "0",
+                "-width": "70",
+                "-height": "97"
+            },
+            {
+                "-name": "alienPink_walk1.png",
+                "-x": "277",
+                "-y": "369",
+                "-width": "68",
+                "-height": "93"
+            },
+            {
+                "-name": "alienPink_walk2.png",
+                "-x": "0",
+                "-y": "97",
+                "-width": "70",
+                "-height": "96"
+            },
+            {
+                "-name": "alienYellow.png",
+                "-x": "478",
+                "-y": "93",
+                "-width": "66",
+                "-height": "82"
+            },
+            {
+                "-name": "alienYellow_climb1.png",
+                "-x": "544",
+                "-y": "360",
+                "-width": "66",
+                "-height": "82"
+            },
+            {
+                "-name": "alienYellow_climb2.png",
+                "-x": "544",
+                "-y": "185",
+                "-width": "66",
+                "-height": "82"
+            },
+            {
+                "-name": "alienYellow_duck.png",
+                "-x": "209",
+                "-y": "286",
+                "-width": "68",
+                "-height": "67"
+            },
+            {
+                "-name": "alienYellow_hurt.png",
+                "-x": "140",
+                "-y": "180",
+                "-width": "69",
+                "-height": "81"
+            },
+            {
+                "-name": "alienYellow_jump.png",
+                "-x": "345",
+                "-y": "92",
+                "-width": "67",
+                "-height": "83"
+            },
+            {
+                "-name": "alienYellow_stand.png",
+                "-x": "412",
+                "-y": "93",
+                "-width": "66",
+                "-height": "82"
+            },
+            {
+                "-name": "alienYellow_swim1.png",
+                "-x": "140",
+                "-y": "95",
+                "-width": "69",
+                "-height": "85"
+            },
+            {
+                "-name": "alienYellow_swim2.png",
+                "-x": "70",
+                "-y": "197",
+                "-width": "70",
+                "-height": "87"
+            },
+            {
+                "-name": "alienYellow_walk1.png",
+                "-x": "277",
+                "-y": "193",
+                "-width": "68",
+                "-height": "83"
+            },
+            {
+                "-name": "alienYellow_walk2.png",
+                "-x": "0",
+                "-y": "386",
+                "-width": "70",
+                "-height": "86"
+            }
+        ]
+    }
+}

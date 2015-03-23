@@ -1,0 +1,22 @@
+{
+   
+        "levels": [
+            {
+                "level": 0,
+                "levelData": "#####|#@$...#|$$"
+            },
+            {
+                "level": 1,
+                "levelData": "#####|#@$.#|#####"
+            },
+            {
+                "level": 2,
+                "levelData": ".$@$."
+            },
+            {
+                "level": 3,
+                "levelData": "..@|#$$"
+            }
+        ]
+    
+}

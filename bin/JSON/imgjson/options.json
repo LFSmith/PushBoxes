@@ -1,0 +1,282 @@
+{
+    "TextureAtlas": {
+        "-imagePath": "options.png",
+        "frames": [
+            {
+                "filename": "effoff_mo.png",
+                "frame": {
+                    "x": 84,
+                    "y": 2,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "effoff.png",
+                "frame": {
+                    "x": 84,
+                    "y": 52,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "effon.png",
+                "frame": {
+                    "x": 134,
+                    "y": 2,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "effon_mo.png",
+                "frame": {
+                    "x": 134,
+                    "y": 52,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "killdata.png",
+                "frame": {
+                    "x": 184,
+                    "y": 2,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "killdata_mo.png",
+                "frame": {
+                    "x": 184,
+                    "y": 52,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "muoff.png",
+                "frame": {
+                    "x": 234,
+                    "y": 2,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "muoff_mo.png",
+                "frame": {
+                    "x": 234,
+                    "y": 52,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "muon.png",
+                "frame": {
+                    "x": 284,
+                    "y": 2,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "muon_mo.png",
+                "frame": {
+                    "x": 284,
+                    "y": 52,
+                    "w": 48,
+                    "h": 48
+                },
+                "rotated": false,
+                "trimmed": false,
+                "spriteSourceSize": {
+                    "x": 0,
+                    "y": 0,
+                    "w": 48,
+                    "h": 48
+                },
+                "sourceSize": {
+                    "w": 48,
+                    "h": 48
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            },
+            {
+                "filename": "refresh.png",
+                "frame": {
+                    "x": 2,
+                    "y": 2,
+                    "w": 80,
+                    "h": 92
+                },
+                "rotated": false,
+                "trimmed": true,
+                "spriteSourceSize": {
+                    "x": 25,
+                    "y": 23,
+                    "w": 80,
+                    "h": 92
+                },
+                "sourceSize": {
+                    "w": 128,
+                    "h": 128
+                },
+                "pivot": {
+                    "x": 0.5,
+                    "y": 0.5
+                }
+            }
+        ]
+    }
+}

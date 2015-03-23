@@ -1,0 +1,31 @@
+{
+    "imgjsons": [
+        {
+            "adress": "JSON/imgjson/aliens.json"
+        },
+        {
+            "adress": "JSON/imgjson/blueui.json"
+        },
+        {
+            "adress": "JSON/imgjson/greenui.json"
+        },
+        {
+            "adress": "JSON/imgjson/yellowui.json"
+        },
+        {
+            "adress": "JSON/imgjson/greyui.json"
+        },
+        {
+            "adress": "JSON/imgjson/greyui.json"
+        },
+        {
+            "adress": "JSON/imgjson/redui.json"
+        },
+        {
+            "adress": "JSON/imgjson/tiles.json"
+        },
+		{
+			"adress": "JSON/imgjson/options.json"
+		}
+    ]
+}
